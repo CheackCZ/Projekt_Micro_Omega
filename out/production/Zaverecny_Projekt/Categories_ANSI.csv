@@ -1,0 +1,79 @@
+Název,Min Age,Max Age,Min Weight,Max Weight,Orientation
+Mladší žáci (- 10 let) - 25 Kg,6,10,0,25,Male
+Mladší žáci (- 10 let) - 30 Kg,6,10,25,30,Male
+Mladší žáci (- 10 let) - 35 Kg,6,10,30,35,Male
+Mladší žáci (- 10 let) - 40 Kg,6,10,35,40,Male
+Mladší žáci (- 10 let) + 40 Kg,6,10,40,100,Male
+Mladší žákynì (- 10 let) - 25 Kg,6,10,0,25,Female
+Mladší žákynì (- 10 let) - 30 Kg,6,10,25,30,Female
+Mladší žákynì (- 10 let) - 35 Kg,6,10,30,35,Female
+Mladší žákynì (- 10 let) - 40 Kg,6,10,35,40,Female
+Mladší žákynì (- 10 let) + 40 Kg,6,10,40,100,Female
+Starší žáci (11 - 13 let) - 35 Kg,11,13,0,35,Male
+Starší žáci (11 - 13 let) - 40 Kg,11,13,35,40,Male
+Starší žáci (11 - 13 let) - 45 Kg,11,13,40,45,Male
+Starší žáci (11 - 13 let) - 50 Kg,11,13,45,50,Male
+Starší žáci (11 - 13 let) - 55 Kg,11,13,50,55,Male
+Starší žáci (11 - 13 let) - 60 Kg,11,13,55,60,Male
+Starší žáci (11 - 13 let) + 60 Kg,11,13,60,100,Male
+Starší žákynì (11 - 13 let) - 30 Kg,11,13,0,30,Female
+Starší žákynì (11 - 13 let) - 35 Kg,11,13,30,35,Female
+Starší žákynì (11 - 13 let) - 40 Kg,11,13,35,40,Female
+Starší žákynì (11 - 13 let) - 45 Kg,11,13,40,45,Female
+Starší žákynì (11 - 13 let) - 50 Kg,11,13,45,50,Female
+Starší žákynì (11 - 13 let) - 55 Kg,11,13,50,55,Female
+Starší žákynì (11 - 13 let) + 55 Kg,11,13,55,100,Female
+Mladší junioøi (14 - 15 let) - 45 Kg,14,15,0,45,Male
+Mladší junioøi (14 - 15 let) - 50 Kg,14,15,45,50,Male
+Mladší junioøi (14 - 15 let) - 55 Kg,14,15,50,55,Male
+Mladší junioøi (14 - 15 let) - 60 Kg,14,15,55,60,Male
+Mladší junioøi (14 - 15 let) - 65 Kg,14,15,60,65,Male
+Mladší junioøi (14 - 15 let) - 70 Kg,14,15,65,70,Male
+Mladší junioøi (14 - 15 let) + 70 Kg,14,15,70,120,Male
+Mladší juniorky (14 - 15 let) - 40 Kg,14,15,0,40,Female
+Mladší juniorky (14 - 15 let) - 45 Kg,14,15,40,45,Female
+Mladší juniorky (14 - 15 let) - 50 Kg,14,15,45,50,Female
+Mladší juniorky (14 - 15 let) - 55 Kg,14,15,50,55,Female
+Mladší juniorky (14 - 15 let) - 60 Kg,14,15,55,60,Female
+Mladší juniorky (14 - 15 let) - 65 Kg,14,15,60,65,Female
+Mladší juniorky (14 - 15 let) + 65 Kg,14,15,65,120,Female
+Starší junioøi (16 - 18 let) - 45 Kg,16,18,0,45,Male
+Starší junioøi (16 - 18 let) - 51 Kg,16,18,45,51,Male
+Starší junioøi (16 - 18 let) - 57 Kg,16,18,51,57,Male
+Starší junioøi (16 - 18 let) - 63 Kg,16,18,57,63,Male
+Starší junioøi (16 - 18 let) - 69 Kg,16,18,63,69,Male
+Starší junioøi (16 - 18 let) - 75 Kg,16,18,69,75,Male
+Starší junioøi (16 - 18 let) + 75 Kg,16,18,75,130,Male
+Starší juniorky (16 - 18 let) - 40 Kg,16,18,0,40,Female
+Starší juniorky (16 - 18 let) - 46 Kg,16,18,40,46,Female
+Starší juniorky (16 - 18 let) - 52 Kg,16,18,46,52,Female
+Starší juniorky (16 - 18 let) - 58 Kg,16,18,52,58,Female
+Starší juniorky (16 - 18 let) - 64 Kg,16,18,58,64,Female
+Starší juniorky (16 - 18 let) - 70 Kg,16,18,64,70,Female
+Starší juniorky (16 - 18 let) + 70 Kg,16,18,70,120,Female
+Senioøi (19 - 39 let) - 52 Kg,19,39,0,52,Male
+Senioøi (19 - 39 let) - 58 Kg,19,39,52,58,Male
+Senioøi (19 - 39 let) - 64 Kg,19,39,58,64,Male
+Senioøi (19 - 39 let) - 71 Kg,19,39,64,71,Male
+Senioøi (19 - 39 let) - 78 Kg,19,39,71,78,Male
+Senioøi (19 - 39 let) - 85 Kg,19,39,78,85,Male
+Senioøi (19 - 39 let) - 92 Kg,19,39,85,92,Male
+Senioøi (19 - 39 let) + 92 Kg,19,39,92,150,Male
+Seniorky (19 - 39 let) - 47 Kg,19,39,0,47,Female
+Seniorky (19 - 39 let) - 52 Kg,19,39,47,52,Female
+Seniorky (19 - 39 let) - 57 Kg,19,39,52,57,Female
+Seniorky (19 - 39 let) - 62 Kg,19,39,57,62,Female
+Seniorky (19 - 39 let) - 67 Kg,19,39,62,67,Female
+Seniorky (19 - 39 let) - 72 Kg,19,39,67,72,Female
+Seniorky (19 - 39 let) - 77 Kg,19,39,72,77,Female
+Seniorky (19 - 39 let) + 77 Kg,19,39,77,150,Female
+Veteráni (40 + let) - 64 Kg,40,60,0,64,Male
+Veteráni (40 + let) - 73 Kg,40,60,64,73,Male
+Veteráni (40 + let) - 80 Kg,40,60,73,80,Male
+Veteráni (40 + let) - 90 Kg,40,60,80,90,Male
+Veteráni (40 + let) + 90 Kg,40,60,90,150,Male
+Veteránky (40 + let) - 54 Kg,40,60,0,54,Female
+Veteránky (40 + let) - 61 Kg,40,60,54,61,Female
+Veteránky (40 + let) - 68 Kg,40,60,61,68,Female
+Veteránky (40 + let) - 75 Kg,40,60,68,75,Female
+Veteránky (40 + let) + 75 Kg,40,60,75,120,Female

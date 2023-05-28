@@ -1,0 +1,79 @@
+
+Mladší žáci (- 10 let) - 25 Kg
+Mladší žáci (- 10 let) - 30 Kg
+Mladší žáci (- 10 let) - 35 Kg
+Mladší žáci (- 10 let) - 40 Kg
+Mladší žáci (- 10 let) + 40 Kg
+Mladší žákyně (- 10 let) - 25 Kg
+Mladší žákyně (- 10 let) - 30 Kg
+Mladší žákyně (- 10 let) - 35 Kg
+Mladší žákyně (- 10 let) - 40 Kg
+Mladší žákyně (- 10 let) + 40 Kg
+Starší žáci (11 - 13 let) - 35 Kg
+Starší žáci (11 - 13 let) - 40 Kg
+Starší žáci (11 - 13 let) - 45 Kg
+Starší žáci (11 - 13 let) - 50 Kg
+Starší žáci (11 - 13 let) - 55 Kg
+Starší žáci (11 - 13 let) - 60 Kg
+Starší žáci (11 - 13 let) + 60 Kg
+Starší žákyně (11 - 13 let) - 30 Kg
+Starší žákyně (11 - 13 let) - 35 Kg
+Starší žákyně (11 - 13 let) - 40 Kg
+Starší žákyně (11 - 13 let) - 45 Kg
+Starší žákyně (11 - 13 let) - 50 Kg
+Starší žákyně (11 - 13 let) - 55 Kg
+Starší žákyně (11 - 13 let) + 55 Kg
+Mladší junioři (14 - 15 let) - 45 Kg
+Mladší junioři (14 - 15 let) - 50 Kg
+Mladší junioři (14 - 15 let) - 55 Kg
+Mladší junioři (14 - 15 let) - 60 Kg
+Mladší junioři (14 - 15 let) - 65 Kg
+Mladší junioři (14 - 15 let) - 70 Kg
+Mladší junioři (14 - 15 let) + 70 Kg
+Mladší juniorky (14 - 15 let) - 40 Kg
+Mladší juniorky (14 - 15 let) - 45 Kg
+Mladší juniorky (14 - 15 let) - 50 Kg
+Mladší juniorky (14 - 15 let) - 55 Kg
+Mladší juniorky (14 - 15 let) - 60 Kg
+Mladší juniorky (14 - 15 let) - 65 Kg
+Mladší juniorky (14 - 15 let) + 65 Kg
+Starší junioři (16 - 18 let) - 45 Kg
+Starší junioři (16 - 18 let) - 51 Kg
+Starší junioři (16 - 18 let) - 57 Kg
+Starší junioři (16 - 18 let) - 63 Kg
+Starší junioři (16 - 18 let) - 69 Kg
+Starší junioři (16 - 18 let) - 75 Kg
+Starší junioři (16 - 18 let) + 75 Kg
+Starší juniorky (16 - 18 let) - 40 Kg
+Starší juniorky (16 - 18 let) - 46 Kg
+Starší juniorky (16 - 18 let) - 52 Kg
+Starší juniorky (16 - 18 let) - 58 Kg
+Starší juniorky (16 - 18 let) - 64 Kg
+Starší juniorky (16 - 18 let) - 70 Kg
+Starší juniorky (16 - 18 let) + 70 Kg
+Senioři (19 - 39 let) - 52 Kg
+Senioři (19 - 39 let) - 58 Kg
+Senioři (19 - 39 let) - 64 Kg
+Senioři (19 - 39 let) - 71 Kg
+Senioři (19 - 39 let) - 78 Kg
+Senioři (19 - 39 let) - 85 Kg
+Senioři (19 - 39 let) - 92 Kg
+Senioři (19 - 39 let) + 92 Kg
+Seniorky (19 - 39 let) - 47 Kg
+Seniorky (19 - 39 let) - 52 Kg
+Seniorky (19 - 39 let) - 57 Kg
+Seniorky (19 - 39 let) - 62 Kg
+Seniorky (19 - 39 let) - 67 Kg
+Seniorky (19 - 39 let) - 72 Kg
+Seniorky (19 - 39 let) - 77 Kg
+Seniorky (19 - 39 let) + 77 Kg
+Veteráni (40 + let) - 64 Kg
+Veteráni (40 + let) - 73 Kg
+Veteráni (40 + let) - 80 Kg
+Veteráni (40 + let) - 90 Kg
+Veteráni (40 + let) + 90 Kg
+Veteránky (40 + let) - 54 Kg
+Veteránky (40 + let) - 61 Kg
+Veteránky (40 + let) - 68 Kg
+Veteránky (40 + let) - 75 Kg
+Veteránky (40 + let) + 75 Kg
